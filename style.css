@@ -18,7 +18,10 @@
     padding: 10px;
 
     
-}
-.footer .card .card-body{
+} 
+
+.card-link {
     display: flex;
+    justify-content: left;
+    text-decoration: none;
 }
